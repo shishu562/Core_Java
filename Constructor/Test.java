@@ -1,3 +1,4 @@
+package Constructor;
 // Source code is decompiled from a .class file using FernFlower decompiler.
 class Test {
    int i;
