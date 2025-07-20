@@ -1,6 +1,5 @@
 package Constructor;
 
-import javax.naming.PartialResultException;
 
 class ParametrizedCons {
     String name;
